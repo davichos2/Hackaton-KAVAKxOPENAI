@@ -1,0 +1,20 @@
+Explica la teoría de la relatividad general de Einstein como si tuviera 15 años, incluyendo un ejemplo concreto.
+Si tengo 3 cajas: una contiene manzanas, otra naranjas y otra ambas frutas. Todas las etiquetas son incorrectas. ¿Cuántas cajas debo abrir para saber qué contiene cada una?
+Escribe un cuento corto sobre un robot que descubre las emociones humanas, incluyendo un conflicto y una resolución.
+Compara las ventajas y desventajas de la energía solar versus la energía eólica, considerando factores económicos y ambientales.
+Guíame paso a paso para cambiar una llanta pinchada, asumiendo que soy un conductor novato.
+Tengo una reunión importante en 30 minutos y mi computadora no enciende. ¿Qué pasos debo seguir para solucionarlo rápidamente?
+Discute los pros y contras éticos de la inteligencia artificial en la toma de decisiones médicas.
+Hoy es mi cumpleaños y quiero organizar una cena. Sugiere un menú para 8 personas, considerando que dos son vegetarianas y una es alérgica a los mariscos.
+Calcula cuánto tiempo tomaría ahorrar $50,000 si deposito $500 mensuales con un interés anual del 4% compuesto mensualmente.
+Analiza el significado metafórico de este texto: 'El barco navegaba en un mar de incertidumbre, con solo las estrellas como guía'.
+Crea un itinerario de 3 días para visitar Roma, incluyendo los principales sitios históricos y tiempo para comidas.
+Mi internet está lento. ¿Qué pasos debo seguir para diagnosticar y solucionar el problema?
+Tengo estos datos de ventas: Enero: $5000, Febrero: $7500, Marzo: $6000. Analiza las tendencias y sugiere estrategias de mejora.
+Estoy considerando cambiar de carrera a los 40 años. ¿Qué factores debería evaluar antes de tomar esta decisión?
+Redacta un email profesional para solicitar una reunión de seguimiento con un cliente importante.
+¿Por qué algunos países desarrollados tienen tasas de natalidad más bajas? Analiza las posibles causas.
+Escribe una función en Python que tome una lista de números y devuelva solo los números primos.
+Explica cómo las diferencias culturales pueden afectar las negociaciones empresariales entre Japón y Brasil.
+Un cliente dice: 'Tu producto es muy caro'. ¿Cómo respondería un vendedor experimentado?
+Resume los principales avances tecnológicos de la última década y su impacto en la vida cotidiana.

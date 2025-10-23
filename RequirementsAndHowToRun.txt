@@ -1,0 +1,10 @@
+openai>=1.0.0
+numpy>=1.24.0
+pandas>=2.0.0
+tqdm>=4.65.0
+python-dotenv>=1.0.0
+agents>=0.1.0
+matplotlib>=3.7.0
+
+execute:
+python evaluator.py --prompts prompts.txt --config config.json --iterations 5 #Warning: Each iteration takes about 10 minutes, so 5 is a balanced option
